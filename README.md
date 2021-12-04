@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning in school 6th standard
 - 💞️ I’m looking to collaborate
 - 📫 Reach me via my email adress finitecode.contact@gmail.com
-|||||||\    |          ||||||||     ||||||||     ||||||||     ||||||||
 |       |   |          |            |      |     |            |
 |||||||/    |          |||          ||||||||     ||||||||     |||
 |           |          |            |      |            |     |

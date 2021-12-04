@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate
 - 📫 Reach me via my email adress finitecode.contact@gmail.com
 
-
 |||||||\    |          ||||||||     ||||||||     ||||||||     ||||||||
 |       |   |          |            |      |     |            |
 |||||||/    |          |||          ||||||||     ||||||||     |||

@@ -9,5 +9,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Atharva)](https://github.com/Git-Atharva/github-readme-stats)
 
 
-https://user-images.githubusercontent.com/93546392/144743451-17004f81-06cc-4ec1-ba66-cbe96c209a6a.MP4
+https://user-images.githubusercontent.com/93546392
 

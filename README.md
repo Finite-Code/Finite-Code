@@ -1,4 +1,4 @@
-- 🤟 Yo, I’m @Git-Atharva.
+- 🤟 Yo, I’m @Git-Atharva..
 - 👀 I’m interested in PYTHON, C#, HTML, CSS, JAVASCRIPT...
 - 🌱 I’m currently learning in school 6th standard
 - 💞️ I’m looking to collaborate

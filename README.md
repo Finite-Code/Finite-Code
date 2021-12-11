@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-atharva" alt="git-atharva" /></a> </p>
 
-- 🔭 I’m currently working on [Baymax OS Hrt](https://github.com/Git-Atharva/Baymax-Hrt)
+- 🔭 I’m currently working on [Baymax](https://github.com/Git-Atharva/Baymax)
 
-- 👯 I’m looking to collaborate on [Baymax OS Hrt](https://github.com/Git-Atharva/Baymax-Hrt)
+- 👯 I’m looking to collaborate on [Baymax](https://github.com/Git-Atharva/Baymax)
 
-- 🤝 I’m looking for help with [Baymax OS Hrt](https://github.com/Git-Atharva/Baymax-Hrt)
+- 🤝 I’m looking for help with [Baymax](https://github.com/Git-Atharva/Baymax)
 
 - 👨‍💻 All of my projects are available at [GitHub.com/Git-Atharva](GitHub.com/Git-Atharva)
 

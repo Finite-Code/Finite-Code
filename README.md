@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello!+I+am+Atharva+Pandey;I+love+building+things+that+live+on+the+internet">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello!+I+am+Atharva+Pandey;Visit+my+blog+on+www.nerdos.ml;Show+me+some+love+by+FORKING!">
   </a>
 </h1>
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">

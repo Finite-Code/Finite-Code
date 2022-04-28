@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello!+I+am+Atharva+Pandey;Visit+my+blog+on+www.Tech-Rituals.cf;Show+me+some+love+by+FORKING!">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello!+I+am+Atharva+Pandey;Visit+my+blog+on+www.Tech-Rituals.cf;Show+me+some+love+by+HEARTING!+the+repos;text+khattam+chalo+niklo+yaha+se">
   </a>
 </h1>
 

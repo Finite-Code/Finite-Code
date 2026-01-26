@@ -9,7 +9,7 @@
 [![Got a Website too!](https://img.shields.io/badge/🌐_Check%20out%20my%20website!-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2563eb&color=1f538d)](https://finitecode.is-a.dev)
 
 ### 🚀 Currently Working On
-**SlateOS** - A custom Linux-based operating system with a from-scratch graphics compositor
+**SlateOS** - You'll realize what it is very soon :)
 
 ## 🔗 Connect With Me
 <a href="https://t.me/FiniteCode">
@@ -60,10 +60,10 @@ If you find my projects helpful or interesting, consider supporting me!
 ### 💙 Show Some Love
 
 **If you like my work, please consider:**
-- ⭐ Starring my repositories
-- 🔔 Following me on GitHub
-- 📺 Subscribing to my YouTube channel
-- 💬 Reaching out on Telegram
+⭐ Starring my repositories
+🔔 Following me on GitHub
+📺 Subscribing to my YouTube channel
+💬 Reaching out on Telegram
 
 <img src="https://komarev.com/ghpvc/?username=Finite-Code&color=40A597&style=flat-square&label=Profile+Views" alt="Profile Views" />
 

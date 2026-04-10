@@ -3,7 +3,7 @@
 # 👋 Hello! I'm Atharva Pandey
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=40A597&center=true&vCenter=true&width=600&lines=Custom+OS+Developer;Content+Creator+%7C+Tech+Enthusiast;Grade+10+ICSE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=40A597&center=true&vCenter=true&width=600&lines=Custom+ROM+Developer;Content+Creator+%7C+Tech+Enthusiast;Class+11+Student+:)" alt="Typing SVG" />
 </a>
 
 [![Got a Website too!](https://img.shields.io/badge/🌐_Check%20out%20my%20website!-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2563eb&color=1f538d)](https://finitecode.is-a.dev)
@@ -25,8 +25,6 @@
 ## 💻 Tech Stack
 
 ### Languages & Frameworks
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)

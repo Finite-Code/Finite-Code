@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Finite-Code&theme=nord&hide_border=true&background=0D1117&ring=40A597&fire=40A597&currStreakLabel=40A597" alt="GitHub Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Finite-Code&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
+<img src="https://trophy.benkou.dev/?username=Finite-Code&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
 
 ## ☕ Support My Work
 
